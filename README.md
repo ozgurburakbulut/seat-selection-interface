@@ -18,7 +18,7 @@
 - TypeScript
 - CSS
 
-## 🔧 Kurulum
+## Kurulum
 
 ```bash
 git clone https://github.com/ozgurburakbulut/seat-selection-interface.git
