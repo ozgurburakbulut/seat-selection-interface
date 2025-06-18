@@ -2,13 +2,14 @@
 
 ## Özellikler
 
-- Koltukları grid şeklinde görüntüleme
-- Koltuk durumları:
-  - Boş
-  - Dolu
-  - Rezerve
-- Seçim bilgisi anlık görüntülenir
-- Responsive
+- Koltuklar kullanıcıya anlaşılır ve düzenli bir şekilde sunulur
+- Boş koltuklar tıklanarak seçilebilir/iptal edilebilir
+- Dolu ve rezerve koltuklar seçilemez, farklı renkte gösterilir
+- Kullanıcıya hangi rengin neyi temsil ettiği gösterilir
+- Seçilen koltuklar ekranda gösterilir
+- Responsive tasarım (mobil - masaüstü uyumlu)
+- Temiz ve anlaşılır kod
+
 
 ## Kullanılan Teknolojiler
 
